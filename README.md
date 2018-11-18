@@ -1,6 +1,7 @@
 Account_Model
 
-Required Primitives:
+
+Required Primitives (RSA Scheme):
 
 public,private = Generate_keys()
 
