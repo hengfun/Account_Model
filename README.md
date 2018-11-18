@@ -1,4 +1,4 @@
-## Account_Model
+## Account Model
 Implements Ethereum Account model using RSA Public, Private Signature Scheme
 
 Required Primitives (RSA Scheme):\
