@@ -1,7 +1,7 @@
 ## Account Model
 Implements Ethereum account model using RSA public, private key signature scheme
 
-Required primitives:\
+Required primitives:
 
 public,private = generate_keys()\
 signature = sign(message, private_key)\
